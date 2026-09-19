@@ -28,7 +28,5 @@ NorthStar AI temporarily prioritizes DBMS, adjusts the placement workload, prese
 
 -AWS
 
--Kiro
-
 ## Core Workflow
 Goal -> Understand -> Roadmap -> Life Event -> Priorities -> Replan -> Execute -> Track -> Reassess
